@@ -65,7 +65,7 @@ Model accuracy on testing dataset: **100%**
 
 ---
 
-### Folder Structure
+### Folder Structure 📂
 
 ```pgsql
 .
