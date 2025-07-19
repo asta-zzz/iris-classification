@@ -37,14 +37,14 @@ cd iris-classification
 python -m venv venv
 ```
 
-To activate it.
+To activate it. <br>
 Windows
 
 ```bash
 venv\Scripts\activate
 ```
 
-or
+or <br>
 Linux, Mac, GitBash
 
 ```bash
