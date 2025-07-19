@@ -13,8 +13,7 @@ By simply entering the values of these four features, the model will predict the
 ### Datasets 📁
 
 The dataset used can be downloaded directly from Kaggle:
-🔗 <a href="https://www.kaggle.com/datasets/uciml/iris">Iris Species Dataset - Kaggle</a>
-
+🔗 <a href="https://www.kaggle.com/datasets/uciml/iris">Iris Species Dataset - Kaggle</a> <br>
 Make sure the CSV file (`Iris.csv`) is saved in the `datasets/` folder so that the script can run immediately.
 
 ---
